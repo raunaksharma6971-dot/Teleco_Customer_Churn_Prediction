@@ -21,6 +21,8 @@ An interactive dashboard was created to summarize key churn metrics and model in
 
 https://lookerstudio.google.com/reporting/03e30ce2-78fd-4d90-b077-9a17d6dda9bd
 
+![Dashboard Overview](assets/dashboard_overview.png)
+
 ---
 
 ## Objectives
